@@ -1,3 +1,5 @@
+# Create a Series from list.
+
 import pandas as pd
 
 #List of Numbers

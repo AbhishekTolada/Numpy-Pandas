@@ -1,3 +1,5 @@
+# Create a DataFrame from dictionary.
+
 import pandas as pd
 
 data = {

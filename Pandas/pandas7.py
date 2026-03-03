@@ -1,0 +1,7 @@
+# 7. Check column names.
+
+import pandas as pd
+
+df = pd.read_csv("customers-100.csv")
+
+print(df.columns)
